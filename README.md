@@ -1,6 +1,8 @@
 # 🔐 Curious Vault Challenge — Solution Walkthrough (90% Completed)
 
-This repository documents my personal exploration of the [Curious Vault Challenge](https://workwithus.webminix.com) by Webminix. It was an immersive technical puzzle that involved DNS records, HTTP headers, encoding, and cryptic clues — an ideal challenge for problem-solvers.
+> ⚡ **Challenge yourself first!** Before reading further, try visiting the [Curious Vault](https://workwithus.webminix.com) yourself and explore `/begin`. See how far you can go before comparing your path with mine. This puzzle is a real test of your problem-solving and web exploration skills.
+
+This repository documents my personal exploration of the Curious Vault Challenge by Webminix. It was an immersive technical puzzle that involved DNS records, HTTP headers, encoding, and cryptic clues — an ideal challenge for problem-solvers.
 
 > ❗ **Disclaimer**: This is *not* a spoiler repository. The walkthrough explains my thought process and commands without revealing the final working solution. This effort demonstrates my technical reasoning and debugging approach.
 
