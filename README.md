@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # 🔐 Curious Vault Challenge — Solution Walkthrough (90% Completed)
 
 > ⚡ **Challenge yourself first!** Before reading further, try visiting the [Curious Vault](https://workwithus.webminix.com) yourself and explore `/begin`. See how far you can go before comparing your path with mine. This puzzle is a real test of your problem-solving and web exploration skills.
