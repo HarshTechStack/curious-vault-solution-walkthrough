@@ -110,7 +110,7 @@ Despite following the logical path:
 
 * Tried the direct SHA256 value from DNS
 * Tried base64 encoding variations
-* Tried guess phrases ("curious\_explorer", "open\_sesame")
+* Tried guess phrases ("curious\_explorer", "open\_seasame")
 * Explored different field/key casing
 
 Still, the Guardian refuses access. This is likely the final twist:
@@ -149,7 +149,7 @@ Challenge by [Webminix](https://webminix.com). This walkthrough is intended as a
 If you enjoyed this or want to collaborate:
 
 * 📧 [vivekharsh.work@gmail.com](mailto:vivekharsh.work@gmail.com)
-* 🌐 [GitHub](https://github.com/vivekharsh)
-* 🔗 [LinkedIn](https://linkedin.com/in/vivekharsh)
+* 🌐 [GitHub](https://github.com/HarshTechStack)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/vivekharshcodecraft/)
 
 > “In puzzles — like in engineering — the journey matters more than just the key.”
